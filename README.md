@@ -7,3 +7,14 @@ Creating many examples for the Crafttweaker 1.12.2 mod. Everyone is welcomed to 
 |-------------------------|-----------------------------|
 | `*X*X*`                   | Something where we still need to work on                            |                             
 | `==>`                     | Some side notes that can help a ton!                            | 
+
+# How to set this up at your pc?
+Go to your minecraft instance folder,
+go to scripts and then clone it or add it to a new folder called
+`easy_examples` ! Otherwise some scripts wont work properly,
+because they are a subfolder in scripts and they call each other
+allways with all below scripts.
+
+Your minecraft instance folder should look smth. like this:
+![MC_Instance_Example](https://github.com/sora7672/CT-1.12.2-Examples/assets/7255402/77738aaa-0668-4b5a-a7f8-b729754d8d99)
+
