@@ -3,7 +3,7 @@ Creating many examples for the Crafttweaker 1.12.2 mod. Everyone is welcomed to 
 
 # I'm new, where should i start?
 Well basically whatever you need.
-But if you want to understand all for real this is the order i thought would be fitting:
+But if you want to understand all for real this is the order i thought would be fitting:  
 config.zs  
 newFunctions.zs  
 tableRecipes.zs  
