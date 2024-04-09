@@ -1,5 +1,5 @@
 # About CT-1.12.2-Examples
-Creating many examples for the Crafttweaker 1.12.2 mod. Everyone is welcomed to work with me or add examples with a fork ;)
+Creating many examples for the Crafttweaker 1.12.2 mod. Everyone is welcome to work with me or add examples with a fork ;)
 Also if you feel like this helped you, you can help me :)
 Just send a DM, comment anywhere its posted or star this Github.
 It helps me staying motivated and to go on with exploring the deepth of CT :D
