@@ -9,7 +9,7 @@ which maybe is including stuff you learned in prior scripts.
 And lastly! Never give up on a problem, split it to smaller problems parts and overall
 HAVE FUN CODING!
 
-Pro Tip:
+==>Pro Tip:
 You can open the github for the docs here:
 https://github.com/CraftTweaker/CraftTweaker-Documentation
 if you search then like this:
@@ -163,4 +163,11 @@ print(conf.combineIItemStackToString(arrayOfItems));
 
 
 **** Here we can add some in deepth things with functions and more
+*/
+
+
+/*
+*X*X* create a new item with tags and other functiosn from vanilla
+and make it available via creative tab and other means
+
 */

@@ -52,6 +52,8 @@ $expand IItemStack$hasEnoughDura( duraNeeded as int) as IItemStack {
 }
 
 
+
+
 $expand IBlockPos$spawnDrop (world as IWorld) as void{
 	if(world.getBlockState(this).isReplaceable(world,this)){ return;}
 	if(!isNull(world.getBlock(this).fluid)){ return;}
